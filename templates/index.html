@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>House Price Prediction</title>
+</head>
+
+<body>
+
+<h2>House Price Prediction</h2>
+
+<form action="/predict" method="post">
+
+Area:
+<input type="number" name="area" required><br><br>
+
+Bedrooms:
+<input type="number" name="bedrooms" required><br><br>
+
+Bathrooms:
+<input type="number" name="bathrooms" required><br><br>
+
+Stories:
+<input type="number" name="stories" required><br><br>
+
+Parking:
+<input type="number" name="parking" required><br><br>
+
+Main Road:
+<select name="mainroad">
+<option value="yes">Yes</option>
+<option value="no">No</option>
+</select><br><br>
+
+Guest Room:
+<select name="guestroom">
+<option value="yes">Yes</option>
+<option value="no">No</option>
+</select><br><br>
+
+Basement:
+<select name="basement">
+<option value="yes">Yes</option>
+<option value="no">No</option>
+</select><br><br>
+
+Hot Water Heating:
+<select name="hotwaterheating">
+<option value="yes">Yes</option>
+<option value="no">No</option>
+</select><br><br>
+
+Air Conditioning:
+<select name="airconditioning">
+<option value="yes">Yes</option>
+<option value="no">No</option>
+</select><br><br>
+
+Preferred Area:
+<select name="prefarea">
+<option value="yes">Yes</option>
+<option value="no">No</option>
+</select><br><br>
+
+Furnishing Status:
+<select name="furnishingstatus">
+<option value="semi-furnished">Semi-Furnished</option>
+<option value="furnished">Furnished</option>
+<option value="unfurnished">Unfurnished</option>
+</select><br><br>
+
+<input type="submit" value="Predict Price">
+
+</form>
+
+</body>
+</html>
