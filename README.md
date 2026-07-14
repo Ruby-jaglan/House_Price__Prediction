@@ -146,3 +146,7 @@ This project demonstrates:
 - Flask Web Development
 - Frontend Integration
 - Git & GitHub Version Control
+
+**##Output**
+<img width="269" height="224" alt="Screenshot 2026-07-14 100146" src="https://github.com/user-attachments/assets/04e7ff03-86a4-4092-93f4-e37fa8dd9654" />
+<img width="278" height="233" alt="Screenshot 2026-07-14 100139" src="https://github.com/user-attachments/assets/1c1a379d-aee8-41cc-9143-1b218fbe22b8" />
