@@ -1,4 +1,4 @@
-**Name:-** Ruby Jaglan     **CODTECH INTERN ID:-** 
+**Name:-** Ruby Jaglan     **CODTECH INTERN ID:-** CITS4103
 # 🏠 House Price Prediction Using Machine Learning
 
 ## 📌 Project Overview
@@ -105,45 +105,7 @@ The model uses the following features:
 
 ---
 
-## ⚙ Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/House-Price-Prediction.git
-```
-
-Move into the project folder
-
-```bash
-cd House-Price-Prediction
-```
-
-Install required packages
-
-```bash
-pip install -r requirements.txt
-```
-
-Train the model
-
-```bash
-python train_model.py
-```
-
-Run the Flask application
-
-```bash
-python app.py
-```
-
-Open your browser and visit
-
-```
-http://127.0.0.1:5000
-```
-
----
 
 ## 📈 Model Used
 
@@ -168,12 +130,8 @@ The model is trained using Scikit-learn's Linear Regression algorithm and predic
 - XGBoost Regressor
 - House Price Visualization
 - Model Accuracy Comparison
-- Bootstrap Responsive UI
-- User Authentication
-- Database Integration
-- Cloud Deployment (Render/Heroku/AWS)
 
----
+----
 
 ## 🎓 Learning Outcomes
 
@@ -188,5 +146,3 @@ This project demonstrates:
 - Flask Web Development
 - Frontend Integration
 - Git & GitHub Version Control
-
-## ⭐ If you found this project useful, don't forget to Star this repository!
